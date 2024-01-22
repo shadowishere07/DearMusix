@@ -17,7 +17,7 @@ photo = [
     "https://telegra.ph/file/b32511341f9b8fa9ed51e.jpg",
     "https://telegra.ph/file/0f69cf467a814fa9edb96.jpg",
     "https://telegra.ph/file/57b886be48fce1f9fa20f.jpg",
-    "https://telegra.ph/file/532197d0d4bd314c29d51.jpg,
+    "https://telegra.ph/file/532197d0d4bd314c29d51.jpg",
     
 ]
 
